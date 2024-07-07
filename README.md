@@ -94,3 +94,7 @@ You can customize various parameters in the functions to improve lane detection 
 ![Screenshot (92)](https://github.com/Ajanta364/Road-lane-line-detection/assets/174923401/6da2c0e1-aa32-4b03-97c6-950473e15950)
 
 ![Screenshot (91)](https://github.com/Ajanta364/Road-lane-line-detection/assets/174923401/c1849f29-1f36-44a8-b08c-2d789bc08dc6)
+
+## Acknowledgements
+
+This project was developed as part of an internship with Next24Tech.
